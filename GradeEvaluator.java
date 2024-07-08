@@ -1,3 +1,16 @@
+
+/*
+In this project, the 'main' method initializes an array of marks and calls the 'evaluateGrade' method.
+The 'evaluateGrade' method calculates the average mark, determines the grade, and prints the result.
+The 'calculateAverage' method calculates the average of the marks in the array.
+I wrote the code in Notepad and saved it as 'GradeEvaluator' and ran it using Command Prompt as follows:
+1. Compiled using: javac GradeEvaluator.java
+2. Ran the code using: java GradeEvaluator
+3. Which printed this result: Average Mark: 88.75, Grade: B, Result: Passed exam.
+You can modify the marks array with your own data to test the program.
+Thank you.
+*/
+
 public class GradeEvaluator {
 
     public static void main(String[] args) {
